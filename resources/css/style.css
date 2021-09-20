@@ -1,0 +1,45 @@
+*{background-color: #D7CEC7;}
+* {font-family: 'Roboto', sans-serif;}
+
+
+h1{
+
+    color: #76323F;
+    font-size: 3rem;
+
+}
+
+h2{
+
+    color: #76323F;
+    font-size: 2rem;
+
+}
+
+h3{
+
+    Color: #76323F;
+    Font-size: 1.5rem;
+
+}
+
+li{
+
+    color: #565656;
+    font-size: 1.25rem;
+
+}
+
+a{
+
+    color: #C09480;
+    font-size: 1.5rem;
+
+}
+
+p{
+
+    font-size: 1.25rem;
+    color: #565656;
+
+}
